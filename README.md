@@ -1,2 +1,3 @@
 # dummy-repo
-Quick empty repo set-up
+Demonstrating a repo set-up for someone.
+#Hashed out text
